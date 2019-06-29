@@ -15,6 +15,6 @@ Process Mining is a famous technique which is frequently applied to Software Dev
 [Download preprint](https://arxiv.org/pdf/1902.08740.pdf)
 
 Recommended citation: Julian Theis and Houshang Darabi. (2019). &quot;Behavioral Petri Net Mining and Automated Analysis for Human-Computer Interaction Recommendations in Multi-Application Environments.&quot; <i>Proc. ACM Hum.-Comput. Interact.</i> 3, EICS, Article 13 (June 2019), 16 pages. DOI: https://doi.org/10.1145/3331155
-
+ 
 
 
