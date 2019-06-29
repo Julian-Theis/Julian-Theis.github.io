@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Chicago, IL"
-  employer         : PROMINENT labs @ University of Illinois at Chicago
+  employer         : PROMINENT @ UIC
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=sdL3DiUAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "jtheis3@uic.edu"
+  researchgate     : "https://www.researchgate.net/profile/Julian_Theis"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,19 +100,19 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/julian-theis/"
   orcid            : "https://orcid.org/0000-0003-0954-0938"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "https://twitter.com/JulianTheis90"
   vine             :
   weibo            :
-  xing             :
+  xing             : "https://www.xing.com/profile/Julian_Theis3"
   youtube          :
   wikipedia        :
 
