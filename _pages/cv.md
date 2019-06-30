@@ -11,38 +11,80 @@ redirect_from:
 
 Education
 ======
-* University of Illinois at Chicago - Chicago, USA (January 2017 - Present)
+* **University of Illinois at Chicago** - Chicago, USA (January 2017 - Present)  
 PhD in Industrial Engineering and Operations Research, Department of Mechanical and Industrial Engineering
 
-* RheinMain University of Applied Sciences - Wiesbaden, Germany (October 2014 - June 2016)
+* **RheinMain University of Applied Sciences** - Wiesbaden, Germany (October 2014 - June 2016)  
 Master of Engineering in Media & Communications Technology, Department of Engineering Sciences
 
-* RheinMain University of Applied Sciences - Wiesbaden, Germany (October 2010 - September 2014)
+* **RheinMain University of Applied Sciences** - Wiesbaden, Germany (October 2010 - September 2014)  
 Bachelor of Engineering in Media Technology, Department of Engineering Sciences
 
-* Savonia University of Applied Sciences - Kuopio, Finland (August 2010 - March 2013)
+* **Savonia University of Applied Sciences** - Kuopio, Finland (August 2010 - March 2013)  
 Exchange Student in Information Technology, Department of Engineering and Technology
 
-Work experience
+Research and Teaching Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **University of Illinois at Chicago** - Chicago, USA (January 2017 - Present)  
+*Researcher*, Process Mining and Intelligent System Analytics Team
+  * Discovery of process models leveraging Deep Learning
+  * Prediction of upcoming events in running cases using Process Mining and Deep Learning
+  * Process Mining on Programmable Logic Controllers to evaluate controller behavior
+  * Discovery of process models from Human-Computer Interaction traces and automated analysis providing user behavior recommendations
+  * Time series clustering of energy consumption data using Bidirectional Generative Adversarial Networks
+  * Anomaly detection and time series forecasting using Generative Adversarial Networks
+  * Fundamental research on Mobile Edge Computing to optimize spectral efficiency of Broadcast over LTE
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **University of Illinois at Chicago** - Chicago, USA (January 2018 - Present)  
+*Teaching Assistant*
+  * Professional Development Seminar (Spring 2019)
+  * Stochastic Processes and Queuing Models (Fall 2018)
+  * Ergonomics and Human Factors in Engineering (Fall 2018)
+  * Probability and Statistics for Engineers (Spring 2018, Summer 2018)
+  
+Software Engineering Experience
+======
+* **Dimetis GmbH** - Dietzenbach, Germany (June 2016 - December 2016)  
+*Software Engineer*
+  * Prototypical development and integration of Machine Learning functionalities to manage Software-Defined Networks and Virtual Network Functions in OSS systems
+  * Wrote studies on deployability of Machine Learning and Artificial Intelligence in OSS- and network management environments
+  * Data visualization of complex telecommunication and broadcast networks using D3.js
+  * Supported preparation of trade-fair appearances
+
+* **Dimetis GmbH** - Dietzenbach, Germany (October 2014 - December 2015)  
+*Software Engineering Intern*
+  * Research on applicability of Machine Learning and Deep Learning in virtualized network environments
+  * Research on commercial Software-Defined Networks and Network Function Virtualization
+  * Installed and deployed laboratory testbeds to evaluate real-world scenarios of virtual networks
+  * Integration and development of software modules to manage Software-Defined Networks
+
+* **Dimetis GmbH** - Dietzenbach, Germany (February 2014 - June 2015)  
+*IT Engineering Intern*
+  * Fundamental research on Network OSS, Software-Defined Networking, and Data Analytics
+  * Analyzed feasibility of graph-based network fault management module
+  * Wrote market investigations on Software-Defined Networking controller
+
+Additional Experience
+======
+* **Südwestrundfunk** - Mainz, Germany (August 2013 - May 2016)  
+*Sound Assistant*
+  * Choice and positioning of microphones for live TV productions
+  * Preventive maintenance of sound equipment
+
+* **Studio Speyer Media Production** - Speyer, Germany (June 2008 - February 2014)  
+*Co-Founder*
+  * Produced image and product movies, commercials, music clips, and sound recordings
+  * Managed international network of audio-visual media designer, media engineers, and marketing professionals
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Software Engineering:** Java, Python, JavaScript, HTML, Matlab
+* **Software Frameworks:** TensorFlow, Keras, PyTorch, D3.JS, Apache Spark, Apache Cassandra
+* **Knowledge:** Process Mining, Data Science, Machine Learning, Deep Learning
+* **Analysis Tools:** ProM, Arena Simulation, Minitab
+* **Other Technical Skills:** Linux, Windows OS, Microsoft Office, LaTeX
+* **Languages:** German (fluent), English (fluent), Finnish (basic), French (basic), Spanish (basic)
+
 
 Publications
 ======
@@ -55,13 +97,22 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+   
+Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* IEEE Robotics and Automation Society Travel Grant (June 2019)
+* Master of Engineering Degree with Distinction (June 2016)
+* IABM Engineering Student Award (September 2013)
+   
+Volunteering and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer, IEEE Transactions on Automation Science and Engineering (May 2018 - Present)
+* Reviewer, International Journal of Modelling and Simulation (April 2019 - Present)
+* Examination Board Student Representative, RheinMain University of Applied Sciences (May 2015 - April 2016)
+
+Memberships
+======
+* IEEE Robotics and Automation Society (May 2019 - Present)
+* IEEE Young Professionals (February 2019 - Present)
+* IEEE Graduate Student Member (February 2019 - Present)
+* Erasmus Student Network - Kuopio International Student Association (August 2012 - March 2013)
