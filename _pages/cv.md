@@ -11,9 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* University of Illinois at Chicago - Chicago, USA (January 2017 - Present)
+PhD in Industrial Engineering and Operations Research, Department of Mechanical and Industrial Engineering
+
+* RheinMain University of Applied Sciences - Wiesbaden, Germany (October 2014 - June 2016)
+Master of Engineering in Media & Communications Technology, Department of Engineering Sciences
+
+* RheinMain University of Applied Sciences - Wiesbaden, Germany (October 2010 - September 2014)
+Bachelor of Engineering in Media Technology, Department of Engineering Sciences
+
+* Savonia University of Applied Sciences - Kuopio, Finland (August 2010 - March 2013)
+Exchange Student in Information Technology, Department of Engineering and Technology
 
 Work experience
 ======
