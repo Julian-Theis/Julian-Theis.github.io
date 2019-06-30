@@ -91,13 +91,39 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Academic Projects
+======
+* **Investigation and Implementation of a Prototype for User Behavior in Large IoT Networks Based on Artificial Intelligence** (December  2015 - June 2016)  
+*Master Thesis*, RheinMain University of Applied Sciences via Dimetis GmbH and Viridis Networks Inc.
+  * Fundamental research on Machine Learning and Deep Learning to leverage advantages of Software-Defined Networking and Network Function Virtualization using IoT user behavior data 
+  * Applied algorithms to cluster (k-means, hierarchical clustering, expectation-maximization) and classify (Naive Bayes, k-NN, AdaBoost, Support Vector Machines, Neural Networks) user behavior data from simulated IoT environments
+  * Forecasted time series user data using Support Vector Regression, Genetic algorithms, and Neural Networks
+  * Integrated algorithms prototypically into umbrella management system to manage IoT and telecommunication networks
+
+* **License Plate Character Recognition Using MATLAB and Tesseract** (January  2015 - March 2015)  
+*Research Project*, RheinMain University of Applied Sciences
+  * Developed a Matlab-based application which recognizes license plate characters from video sequences
+  * Elaborated teaching material and produced the corresponding video lectures for a chapter of the MOOC “Modelling and Simulation Using Matlab” which had more than 50,000 enrollments
   
+* **Analytics Application Development to Optimize and Expand Existing Fault Management Features for Conventional and Software-Defined Networks** (July 2014 - September 2014)  
+*Bachelor Thesis*, RheinMain University of Applied Sciences via Dimetis GmbH
+  * Elaborated graph-based concept to optimize the existing fault management of Dimetis’ BOSS Link Manager
+  * Interconnected BOSS Link Manager to open source Software-Defined Networking controller
+  * Developed a prototype which analyzed SNMP fault data, Software-Defined Networking controller information and internal event logs in real-time to expand existing fault management features
+  * Successful demonstration of the prototype at the MPLS & SDN Summit 2016 in Paris, France
+
+* **MOOC Production: Modelling and Simulation Using MATLAB** (September 2013 - February 2014)  
+*Course Project*, RheinMain University of Applied Sciences
+  * Head of video production of MOOC “Modelling and Simulation Using Matlab” which had 50,000+ enrollments
+  * Assessed and evaluated course material of five contributing professors
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-   
+
 Awards
 ======
 * IEEE Robotics and Automation Society Travel Grant (June 2019)
