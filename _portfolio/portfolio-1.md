@@ -1,7 +1,32 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "User Activity Simulation"
+excerpt: "Simulation for Human-Computer Interaction Event Logs"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Github repository: Julian-Theis/UserActivitySimulation](https://github.com/Julian-Theis/UserActivitySimulation)
+
+This project is the implementation of the user simulation described in [Behavioral Petri Net Mining and Automated Analysis for Human-Computer Interaction Recommendations in Multi-Application Environments](). Please cite this paper if you are using this project.
+
+```
+@article{Theis:2019:BPN:3340630.3331155,
+ author = {Theis, Julian and Darabi, Houshang},
+ title = {Behavioral Petri Net Mining and Automated Analysis for Human-Computer Interaction Recommendations in Multi-Application Environments},
+ journal = {Proc. ACM Hum.-Comput. Interact.},
+ issue_date = {June 2019},
+ volume = {3},
+ number = {EICS},
+ month = jun,
+ year = {2019},
+ issn = {2573-0142},
+ pages = {13:1--13:16},
+ articleno = {13},
+ numpages = {16},
+ url = {http://doi.acm.org/10.1145/3331155},
+ doi = {10.1145/3331155},
+ acmid = {3331155},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {behavioral petri nets, human-computer interaction recommendation, multi-application environments, software process mining, user behavior optimization},
+}
+```
