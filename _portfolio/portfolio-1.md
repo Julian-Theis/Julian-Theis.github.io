@@ -6,7 +6,7 @@ collection: portfolio
 
 [Github repository: Julian-Theis/UserActivitySimulation](https://github.com/Julian-Theis/UserActivitySimulation)
 
-This project is the implementation of the user simulation described in [Behavioral Petri Net Mining and Automated Analysis for Human-Computer Interaction Recommendations in Multi-Application Environments](). Please cite this paper if you are using this project.
+This project is the implementation of the user simulation described in [Behavioral Petri Net Mining and Automated Analysis for Human-Computer Interaction Recommendations in Multi-Application Environments](https://julian-theis.github.io/publication/hci). Please cite this paper if you are using this project.
 
 ```
 @article{Theis:2019:BPN:3340630.3331155,
