@@ -4,7 +4,7 @@ excerpt: "Simulation for Human-Computer Interaction Event Logs"
 collection: portfolio
 ---
 
-[Github repository: Julian-Theis/UserActivitySimulation](https://github.com/Julian-Theis/UserActivitySimulation)
+Code Repository: [UserActivitySimulation](https://github.com/Julian-Theis/UserActivitySimulation)
 
 This project is the implementation of the user simulation described in [Behavioral Petri Net Mining and Automated Analysis for Human-Computer Interaction Recommendations in Multi-Application Environments](https://julian-theis.github.io/publication/hci). Please cite this paper if you are using this project.
 
