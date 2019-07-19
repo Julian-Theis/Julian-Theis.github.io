@@ -1,0 +1,11 @@
+---
+title: "Hands-On: Artificial Intelligence"
+collection: talks
+type: "Workshop"
+permalink: /talks/2019-07-18-nsf
+venue: "University of Illinois at Chicago Summer Bridge Program for NSF S-STEM Scholars"
+date: 2019-07-18
+location: "Chicago, Illinois"
+---
+
+Introduction of basic Artificial Intelligence fundamentals with real world examples to 13 incoming freshmen engineering students as part of the Summer Bridge Program organized by the UIC College of Engineering. This workshop included three hands-on parts on building a machine learning classifier, training deep neural networks, and buidling a Generative Adversarial Network (GAN). 
