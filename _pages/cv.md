@@ -124,8 +124,10 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Awards
+Awards and Funds
 ======
+* UIC Graduate College - Student Presenter Award (August 2019)
+* UIC Research Open Access Article Publishing Fund (August 2019)
 * IEEE Robotics and Automation Society Travel Grant (June 2019)
 * Master of Engineering Degree with Distinction (June 2016)
 * IABM Engineering Student Award (September 2013)
