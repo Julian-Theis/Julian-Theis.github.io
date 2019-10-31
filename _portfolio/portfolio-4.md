@@ -1,8 +1,6 @@
 ---
 title: "DREAM-NAP"
-excerpt: "---
-title: "User Activity Simulation"
-excerpt: "Simulation for Human-Computer Interaction Event Logs"
+excerpt: "Decay Replay Mining to Predict Next Process Events"
 collection: portfolio
 ---
 
