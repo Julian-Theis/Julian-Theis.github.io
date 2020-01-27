@@ -6,7 +6,7 @@ collection: portfolio
 
 Code Repository: [DREAM-NAP](https://github.com/Julian-Theis/DREAM-NAP)
 
-This project is the implementation of the Decay Replay Mining - Next Transition Prediction (DREAM-NAP) approach described in the paper [Decay Replay Mining to Predict Next Process Events](https://julian-theis.github.io/publication/dream-nap) by Julian Theis and Houshang Darabi. Both authors are part of the Process Mining and Intelligent System Analytics Team (PROMINENT) at the University of Illinois at Chicago, USA.
+This project is the implementation of the Decay Replay Mining - Next Transition Prediction (DREAM-NAP) approach described in the paper [Decay Replay Mining to Predict Next Process Events](https://julian-theis.github.io/publication/dream-nap) by Julian Theis and Houshang Darabi. Both authors are with the Process Mining and Intelligent System Analytics Team (PROMINENT) at the University of Illinois at Chicago, USA.
 
 ```
 @article{theis2019decay,
