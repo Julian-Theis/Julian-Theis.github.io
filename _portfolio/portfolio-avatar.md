@@ -17,3 +17,4 @@ AVATAR is the Python implementation of the AdVersarial system vArianT AppRoximat
   url = {http://arxiv.org/abs/2003.12168},
   arxivId = {2003.12168}
 }
+```
