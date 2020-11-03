@@ -10,11 +10,13 @@ AVATAR is the Python implementation of the AdVersarial system vArianT AppRoximat
 
 ```
 @article{theis2020adversarial,
-  title={Adversarial System Variant Approximation to Quantify Process Model Generalization},
-  author={Theis, Julian and Darabi, Houshang},
+  title={Adversarial System Variant Approximation to Quantify Process Model Generalization}, 
+  author={J. {Theis} and H. {Darabi}},
+  journal={IEEE Access}, 
   year={2020},
-  month = {03},
-  url = {http://arxiv.org/abs/2003.12168},
-  arxivId = {2003.12168}
+  volume={8},
+  number={},
+  pages={194410-194427},
+  doi={10.1109/ACCESS.2020.3033450}}
 }
 ```
